@@ -21,4 +21,3 @@
 <p>
   <img src="https://img.shields.io/badge/AWS-05122A?style=flat-square&logo=Amazon%20AWS"/></a> &nbsp 
 </p>
-<br/>
