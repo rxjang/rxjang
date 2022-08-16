@@ -21,3 +21,5 @@
 <p>
   <img src="https://img.shields.io/badge/AWS-05122A?style=flat-square&logo=Amazon%20AWS"/></a> &nbsp 
 </p>
+
+[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs?username=rxjang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
