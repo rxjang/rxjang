@@ -2,7 +2,7 @@
 
 💾 Backend Developer
 
-☁️ [AWS Certified Cloud Practitioner](https://www.credly.com/badges/e3d71662-f4ba-467c-b864-ac1672efc7d9/public_url)
+☁️ [AWS Certified Developer – Associate](https://www.credly.com/badges/5b19ff6d-9dfc-48da-8eef-95add413cce8/public_url)
 
 ### Tech Stack 
 <p>
